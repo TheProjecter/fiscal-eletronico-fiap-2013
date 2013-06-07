@@ -1,0 +1,18 @@
+Manual de entendimento e uso dos arquivos:
+
+Esse documento tem como propósito facilitar o entendimento do Documento de Requisitos final, como vários outros foram criados como base de estudo para ele, esse texto irá facilitar no entendimento e relação entre eles.
+
+Primeira etapa: Proposta = Conta com o escopo inicial contendo a ideia geral e o propósito para a criação do sistema assim como suas vantagens.
+
+Segunda etapa: Processo = Para ajudar a levantar os requisitos, a equipe decidiu mapear as atividades da empresa em forma de fluxograma.
+
+Terceira etapa: Dependências e Documento de dependências = Os documentos foram gerados como validação para o fluxograma.
+
+Quarta etapa: Protótipo = Para validação com usuário e como forma de esclarecer os requisitos necessários para a primeira versão a equipe de design desenvolveu um protótipo das principais telas do sistema.
+
+Quinta etapa: Descrição das telas = Feita para validar a etapa anterior e explicar para equipe, cliente e envolvidos o funcionamento em prática do sistema.
+
+Sexta etapa: Tabela de requisitos = Com as etapas anteriores validadas, os requisitos foram levantados e nomeados por convenção.
+
+Sétima etapa: Documento de requisitos = Com base em um modelo, o documento de requisitos foi gerado e de forma resumida foi abordado cada estudo até se chegar em suas descrições finais.
+
